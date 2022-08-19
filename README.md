@@ -28,7 +28,7 @@ For more than 5 numbers I'm dividing the stack by a certain number. This number 
 
 Visual representation of 100 numbers sorting:
 
-![100 number sorting visually](./assets/sorting.gif)
+![100 number sorting visually](/assets/sorting.gif)
 
 ## Usage
 
